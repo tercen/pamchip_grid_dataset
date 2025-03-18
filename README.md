@@ -15,3 +15,10 @@ This is one PamChip with four Wells.
 
 PTK assay with 94 Cycles, different exposure times.
 Both prewash and postwash cycles are contained.
+
+
+# 641129101 bn6 output
+
+This are the quantified output values using the BN6 software.
+
+This output can be considered the gold standard for expected output.
