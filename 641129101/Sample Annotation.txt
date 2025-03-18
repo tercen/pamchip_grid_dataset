@@ -1,0 +1,5 @@
+PamChip Location	Barcode	Row	Col	Array	Visual QC	PI PamGene	Operator	Project	Article number	Strip	ATP	Detection	Sample name
+1	641129101	1	1	A1	OK	NA	NA	NA	86412	1	Na	Na	Sample01
+1	641129101	2	1	A2	OK	NA	NA	NA	86412	1	Na	Na	Sample02
+1	641129101	3	1	A3	OK	NA	NA	NA	86412	1	Na	Na	Sample03
+1	641129101	4	1	A4	OK	NA	NA	NA	86412	1	Na	Na	Sample04
